@@ -1,8 +1,14 @@
 # crud_java
 Trabalho com conexão a um banco de dados - Sistema de controle de Ordens de serviço com login
 DER - DIAGRAMA ENTIDADE RELACIONAMENTO DA BASE DE DADOS
+
+
 ![image](https://user-images.githubusercontent.com/64651291/142491230-44bba15f-8910-45d4-85a6-6adca1fef469.png)
+
+
 Atualização do banco de dados
+
+
 ![image](https://user-images.githubusercontent.com/64651291/144099221-94a40a46-6042-4f7f-b0b2-fd06ff5e38f0.png)
 
 *TELAS*
